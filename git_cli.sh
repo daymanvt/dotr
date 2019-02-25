@@ -6,7 +6,7 @@
 # Desc:			Reference Commands for using 'git' at the command line
 # Usage:		./git_cli.sh
 
-# Formatting 
+# Formatting
 # Template: echo -e "${Red}  ${NC}"
 NC='\e[0m'
 Red='\e[0;31m'
