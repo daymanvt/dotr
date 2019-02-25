@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Adding a comment
 # File:			git_cli.sh
 # Name:			Kevin Crotty
 # Date:			24 Feb 2019
