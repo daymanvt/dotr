@@ -7,3 +7,7 @@
 
 * [Hello\_World](group_1/test_world.md)
 
+---
+
+* [Code Examples](code.md)
+
